@@ -1,0 +1,8 @@
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+/Web AppStore/wwwroot/
+Web AppStore/wwwroot/lib
+**/wwwroot/
