@@ -6,3 +6,5 @@ riderModule.iml
 /Web AppStore/wwwroot/
 Web AppStore/wwwroot/lib
 **/wwwroot/
+/.idea
+**/Web AppStore/wwwroot
